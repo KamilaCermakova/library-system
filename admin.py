@@ -1,5 +1,5 @@
-from Book import *
-from User import *
+from book import *
+from user import *
 from utility import *
 
 

@@ -1,4 +1,4 @@
-from OperationsManager import *
+from operations_manager import *
 
 if __name__ == '__main__':
     main = OperationsManager()

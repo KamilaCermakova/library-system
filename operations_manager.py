@@ -1,4 +1,4 @@
-from Admin import *
+from admin import *
 
 class OperationsManager:
     def __init__(self):
